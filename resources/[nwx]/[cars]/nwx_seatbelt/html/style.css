@@ -1,0 +1,91 @@
+html {
+	overflow: hidden;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#container {
+	position: absolute;
+	bottom: -100%;
+    top: 95.95%;
+	left: 46.45%;
+	width: 25px;
+    height: 25px;
+	display: none;
+	flex-direction: column;
+}
+
+header {
+	width: 25px;
+    height: 25px;
+	/*background-color: #a519ea;*/
+	opacity: 1.0;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+
+}
+
+header img {
+	width: 25px;
+    height: 25px;
+	border-top-left-radius: 40px;
+	border-top-right-radius: 40px;
+}
+
+/* Firefox old*/
+@-moz-keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+} 
+
+@-webkit-keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+/* IE */
+@-ms-keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+} 
+/* Opera and prob css3 final iteration */
+@keyframes blink {
+    0% {
+        opacity:1;
+    }
+    50% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+} 
+.blink-image {
+    -moz-animation: blink normal 1s infinite ease-in-out; /* Firefox */
+    -webkit-animation: blink normal 1s infinite ease-in-out; /* Webkit */
+    -ms-animation: blink normal 1s infinite ease-in-out; /* IE */
+    animation: blink normal 1s infinite ease-in-out; /* Opera and prob css3 final iteration */
+}

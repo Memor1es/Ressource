@@ -1,0 +1,199 @@
+-- Begin of log for 07-19-19 --
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 mechanic 4
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 2 vagos 2
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 3 blowpipe 10
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 3 bread 10
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 3 water 10
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command car, with parameters: sultan
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (Oscar Jimènez) ran admin command skin, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 water 20
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 bread 20
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 phone 1
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 blowpire 20
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 blowpipe 20
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command loadwl, with parameters: 
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 5 cardealer 3
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command car, with parameters: sultan
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 5 blowpipe 10
+User (Fares) ran admin command car, with parameters: turismor
+User (Fares) ran admin command dv, with parameters: 
+User (Fares) ran admin command giveitem, with parameters: 5 phone 1
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: t20
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 6 phone 1
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Fares) ran admin command car, with parameters: sultanrs
+User (Fares) ran admin command dv, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 1 weapon_pistol 200
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 1 weapon_pistol 200
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (steam:1100001031c351f) saved and unloaded

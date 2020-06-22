@@ -1,0 +1,227 @@
+-- Begin of log for 07-15-19 --
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command noclip, with parameters: 
+User (Nawax) ran admin command noclip, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan$
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: blista
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command setjob, with parameters: 1 unemployed 0
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (Nawax) ran admin command setfaction, with parameters: 1 vagos 2
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (steam:11000011b25bde2) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command spectate, with parameters: 2
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command revive, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001187ca5a0) loaded
+User (steam:11000011b25bde2) loaded
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Nawax) ran admin command giveitem, with parameters: 2 water 50
+User (Nawax) ran admin command giveitem, with parameters: 2 bread 50
+User (steam:110000112a8ab79) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setfaction, with parameters: 5 vagos 2
+User (Nawax) ran admin command setjob, with parameters: 5 police 4
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 3 police 4
+User (Nawax) ran admin command setfaction, with parameters: 3 vagos 2
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 4 police 4
+User (Nawax) ran admin command setfaction, with parameters: 4 vagos 2
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command giveitem, with parameters: 4 phone 1
+User (steam:110000112a8ab79) saved and unloaded
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (KIRIOSE) ran admin command revive, with parameters: 3
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (Nawax) ran admin command car, with parameters: besra
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: cuban800
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command revive, with parameters: 
+User (Nawax) ran admin command car, with parameters: besra
+User (KIRIOSE) ran admin command car, with parameters: buzzard
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 3
+User (Nawax) ran admin command car, with parameters: besra
+User (Nawax) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (Nawax) ran admin command car, with parameters: besra
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: cuban800
+User (KIRIOSE) ran admin command revive, with parameters: 8
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: oppressor2
+User (KIRIOSE) ran admin command revive, with parameters: 3
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 3
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 3
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Nawax) ran admin command revive, with parameters: 3
+User (Nawax) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command car, with parameters: faggio
+User (Navex) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:110000134b32e63) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000109ffaecb) loaded
+User (steam:110000134b32e63) loaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 2 pistole 1
+User (steam:1100001187ca5a0) loaded
+User (steam:110000109ffaecb) saved and unloaded
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command setjob, with parameters: 2 police 4
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (steam:110000112a8ab79) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setfaction, with parameters: 6 vagos 2
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 2
+User (Navex) ran admin command setjob, with parameters: 5 police 3
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 6 cardealer 2
+User (Nawax) ran admin command setjob, with parameters: 6 cardealer 3
+User (Nawax) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 3 unemployed 0
+User (Navex) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 3 unemployed 0
+User (steam:110000112a8ab79) saved and unloaded
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:110000109ffaecb) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command revive, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded

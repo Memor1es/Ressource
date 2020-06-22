@@ -1,0 +1,5 @@
+-- Begin of log for 12-06-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 flash 2
+User (steam:1100001031c351f) saved and unloaded

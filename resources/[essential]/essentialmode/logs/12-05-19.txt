@@ -1,0 +1,18 @@
+-- Begin of log for 12-05-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 flash 1
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 ballas 1
+User (steam:1100001031c351f) saved and unloaded

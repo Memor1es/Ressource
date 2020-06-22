@@ -1,0 +1,465 @@
+-- Begin of log for 10-15-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000013cb706e7) loaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command setjob, with parameters: 2 vigneron 1
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000013cb706e7) saved and unloaded
+User (steam:11000011ac3f406) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011ac3f406) saved and unloaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000010eb6f781) loaded
+User (steam:110000108334361) loaded
+User (raoule) ran admin command mapper, with parameters: 
+User (raoule) ran admin command mapper, with parameters: 
+User (steam:110000108334361) saved and unloaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000011394cf7b) saved and unloaded
+User (steam:11000010f726a05) loaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011ac3f406) saved and unloaded
+User (steam:110000134b32e63) loaded
+User (steam:110000134b32e63) saved and unloaded
+User (steam:11000010f726a05) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000013c442619) loaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000013c442619) saved and unloaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:1100001172a6180) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000010de9849e) loaded
+User (James Cook) ran admin command menu, with parameters: 
+User (James Cook) ran admin command setjob, with parameters: 22 cardealer 3
+User (steam:1100001172a6180) saved and unloaded
+User (steam:11000010c7608e8) loaded
+User (James Cook) ran admin command menu, with parameters: 
+User (James Cook) ran admin command menu, with parameters: 
+User (James Cook) ran admin command giveitem, with parameters: 22 phone 1
+User (steam:11000010de9849e) saved and unloaded
+User (steam:1100001174a00fe) loaded
+User (steam:11000010f60b6fd) loaded
+User (steam:11000010de9849e) loaded
+User (James Cook) ran admin command menu, with parameters: 
+User (steam:11000011ac3f406) saved and unloaded
+User (steam:110000113fc6c85) loaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command setjob, with parameters: 31 bucheron 2
+User (Fares) ran admin command setjob, with parameters: 31 bucheron 3
+User (Fares) ran admin command setjob, with parameters: 31 bucheron 0
+User (steam:1100001174a00fe) saved and unloaded
+User (Fares) ran admin command tp, with parameters: -808.78 5397.52 34.42
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (Fares) ran admin command car, with parameters: mule
+User (Fares) ran admin command dv, with parameters: 
+User (Fares) ran admin command dv, with parameters: 
+User (steam:11000010de9849e) saved and unloaded
+User (Fares) ran admin command dv, with parameters: 
+User (steam:11000010c7608e8) saved and unloaded
+User (steam:1100001190bc45f) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (Fares) ran admin command tp, with parameters: 904.39 -3201.49 -97.98
+User (Fares) ran admin command setfaction, with parameters: 31 qlf 3
+User (Fares) ran admin command setfaction, with parameters: 31 qlf 2
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command tp, with parameters: 1121.89, -3195.33 -40.4025
+User (Fares) ran admin command tp, with parameters: 1121.89 -3195.33 -40.4025
+User (Fares) ran admin command tp, with parameters: 1107.04 -3157.399 -37.51859
+User (steam:11000010f60b6fd) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command car, with parameters: sultan
+User (Fares) ran admin command dv, with parameters: 
+User (Fares) ran admin command tp, with parameters: -2587.86 1911.20 166.50
+User (steam:110000113fc6c85) saved and unloaded
+User (steam:11000010c7608e8) loaded
+User (steam:11000011cfab7f2) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000010c7608e8) loaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:1100001190bc45f) loaded
+User (steam:1100001174a00fe) loaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000010a6805e5) loaded
+User (steam:11000013c442619) loaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000010dfdd66a) loaded
+User (steam:11000013be712c2) loaded
+User (steam:11000010de9849e) loaded
+User (James Cook) ran admin command setfaction, with parameters: 3 qlf 3
+User (James Cook) ran admin command setfaction, with parameters: 16 QLF 2
+User (James Cook) ran admin command setfaction, with parameters: 16 qlf 2
+User (James Cook) ran admin command setfaction, with parameters: 10 QLF 2
+User (James Cook) ran admin command setfaction, with parameters: 10 qlf 2
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (James Cook) ran admin command menu, with parameters: 
+User (steam:11000010dfdd66a) saved and unloaded
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000013be712c2) loaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:11000013cb706e7) loaded
+User (James Cook) ran admin command revive, with parameters: 
+User (James Cook) ran admin command setjob, with parameters: 16 ambulance 2
+User (James Cook) ran admin command setjob, with parameters: 16 cardealer 2
+User (steam:11000010dfdd66a) loaded
+User (James Cook) ran admin command setjob, with parameters: 16 police 2
+User (steam:110000136caa057) loaded
+User (James Cook) ran admin command setjob, with parameters: 16 police 4
+User (James Cook) ran admin command dv, with parameters: 
+User (James Cook) ran admin command setjob, with parameters: 16 cardealer 2
+User (James Cook) ran admin command setfaction, with parameters: 16 vagos 2
+User (James Cook) ran admin command setjob, with parameters: 16 gouv 2
+User (James Cook) ran admin command setjob, with parameters: 16 gouv 3
+User (James Cook) ran admin command setjob, with parameters: 16 gouv 4
+User (Fares) ran admin command setjob, with parameters: 17 gouv 1
+User (James Cook) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command car, with parameters: onebeast
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:11000010de9849e) saved and unloaded
+User (steam:11000011ac3f406) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000013cb706e7) loaded
+User (steam:11000010eb6f781) loaded
+User (steam:110000136caa057) loaded
+User (steam:11000013c442619) loaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000010f22120f) loaded
+User (steam:11000010dfdd66a) loaded
+User (steam:11000010c7608e8) loaded
+User (steam:11000010a6805e5) loaded
+User (steam:110000114b60891) loaded
+User (steam:1100001190bc45f) loaded
+User (steam:11000013bb1cd5f) loaded
+User (steam:110000114b60891) saved and unloaded
+User (steam:110000135560a64) loaded
+User (steam:110000114b60891) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000011394cf7b) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000010de9849e) loaded
+User (steam:11000013cb706e7) saved and unloaded
+User (steam:11000010f726a05) loaded
+User (James Cook) ran admin command loadwl, with parameters: 
+User (steam:110000114b60891) saved and unloaded
+User (steam:11000013cb706e7) loaded
+User (steam:110000114b60891) loaded
+User (James Cook) ran admin command menu, with parameters: 
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000011a3682f1) loaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:110000136caa057) saved and unloaded
+User (steam:11000013be712c2) loaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (James Cook) ran admin command mapper, with parameters: 
+User (James Cook) ran admin command mapper, with parameters: 
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:110000136caa057) loaded
+User (steam:110000114b60891) saved and unloaded
+User (steam:11000010cd0165b) loaded
+User (steam:11000010f22120f) saved and unloaded
+User (steam:11000010ccd9a23) loaded
+User (steam:11000010f22120f) loaded
+User (James Cook) ran admin command setjob, with parameters: 23 cardealer 3
+User (James Cook) ran admin command menu, with parameters: 
+User (steam:110000131d13846) loaded
+User (James Cook) ran admin command setjob, with parameters: 40 cardealer 3
+User (steam:11000010c7608e8) saved and unloaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:11000013c442619) saved and unloaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:11000010ccd9a23) saved and unloaded
+User (steam:11000011555f910) loaded
+User (steam:1100001190bc45f) saved and unloaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:1100001365dee33) loaded
+User (steam:11000010c7608e8) loaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:11000013bf6aaa5) loaded
+User (steam:110000131d13846) saved and unloaded
+User (James Cook) ran admin command mapper, with parameters: 
+User (steam:11000011a3682f1) saved and unloaded
+User (steam:110000114654f60) loaded
+User (steam:11000010a6805e5) saved and unloaded
+User (steam:11000010de9849e) saved and unloaded
+User (steam:110000135560a64) saved and unloaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:11000010a6805e5) loaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:110000136caa057) loaded
+User (steam:110000136caa057) saved and unloaded
+User (steam:11000013d0501a6) loaded
+User (steam:11000010cd0165b) saved and unloaded
+User (steam:110000136caa057) loaded
+User (steam:11000013d0501a6) saved and unloaded
+User (steam:110000114b60891) loaded
+User (steam:11000013c442619) loaded
+User (steam:11000013bb1cd5f) saved and unloaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:1100001365dee33) saved and unloaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000010f22120f) saved and unloaded
+User (steam:110000113fc6c85) loaded
+User (steam:1100001365dee33) loaded
+User (steam:110000113fc6c85) saved and unloaded
+User (steam:11000013cb706e7) saved and unloaded
+User (steam:110000113fc6c85) loaded
+User (steam:110000117cbf6e0) loaded
+User (steam:11000013c442619) saved and unloaded
+User (steam:110000117cbf6e0) saved and unloaded
+User (steam:110000114b60891) saved and unloaded
+User (steam:110000134c67873) loaded
+User (steam:11000013d0501a6) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000010cd0165b) loaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:110000136caa057) saved and unloaded
+User (steam:1100001174a00fe) loaded
+User (steam:110000134c67873) saved and unloaded
+User (steam:11000013d0501a6) saved and unloaded
+User (steam:11000011ac3f406) saved and unloaded
+User (steam:11000013bb1cd5f) loaded
+User (steam:11000010f726a05) saved and unloaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011b11bffb) loaded
+User (steam:110000114654f60) saved and unloaded
+User (steam:110000109ffaecb) loaded
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:11000013c442619) loaded
+User (steam:1100001001d5271) loaded
+User (steam:11000010f22120f) loaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:110000113fc6c85) saved and unloaded
+User (steam:11000011555f910) saved and unloaded
+User (steam:1100001172a6180) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000011555f910) loaded
+User (steam:1100001365dee33) saved and unloaded
+User (steam:11000013b243b61) loaded
+User (steam:110000113fc6c85) loaded
+User (steam:11000013be712c2) saved and unloaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000013bb1cd5f) saved and unloaded
+User (steam:11000010dfdd66a) saved and unloaded
+User (steam:11000010dfdd66a) loaded
+User (steam:1100001190bc45f) loaded
+User (steam:11000010cd0165b) saved and unloaded
+User (steam:1100001190bc45f) saved and unloaded
+User (steam:11000011ac3f406) loaded
+User (steam:11000010dfdd66a) loaded
+User (steam:110000103524299) loaded
+User (steam:11000010dfdd66a) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000010dfdd66a) loaded
+User (steam:1100001174a00fe) saved and unloaded
+User (steam:110000114654f60) loaded
+User (steam:11000010dfdd66a) loaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:11000010f20907b) loaded
+User (steam:11000013d9adc95) loaded
+User (steam:1100001365dee33) loaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000010f20907b) saved and unloaded
+User (steam:11000010f22120f) saved and unloaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000010a6805e5) loaded
+User (steam:11000013cb706e7) loaded
+User (steam:11000010f20907b) loaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:110000117cbf6e0) loaded
+User (steam:11000011555f910) saved and unloaded
+User (steam:11000010b90d340) loaded
+User (steam:110000117cbf6e0) saved and unloaded
+User (steam:11000013be712c2) loaded
+User (steam:11000010706f36b) loaded
+User (steam:11000010653318f) loaded
+User (steam:11000010653318f) saved and unloaded
+User (steam:11000010653318f) loaded
+User (steam:110000114b60891) loaded
+User (steam:110000136caa057) loaded
+User (steam:11000010dfdd66a) saved and unloaded
+User (steam:110000113fc6c85) saved and unloaded
+User (steam:11000010cd0165b) loaded
+User (steam:11000011394cf7b) saved and unloaded
+User (steam:11000010706f36b) saved and unloaded
+User (steam:11000010837f051) loaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000011394cf7b) saved and unloaded
+User (steam:11000010706f36b) loaded
+User (steam:11000010706f36b) saved and unloaded
+User (steam:11000010c7608e8) saved and unloaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000013b243b61) saved and unloaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000011394cf7b) saved and unloaded
+User (steam:11000010e7939f8) loaded
+User (steam:1100001141b6598) loaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000010c7608e8) loaded
+User (steam:11000010706f36b) loaded
+User (steam:11000010e7939f8) saved and unloaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (steam:11000010f20907b) saved and unloaded
+User (steam:11000010e7939f8) loaded
+User (steam:11000011ac3f406) saved and unloaded
+User (steam:11000013bf6aaa5) loaded
+User (steam:11000010706f36b) saved and unloaded
+User (steam:110000136caa057) saved and unloaded
+User (steam:1100001141b6598) saved and unloaded
+User (steam:11000010653318f) saved and unloaded
+User (steam:11000010706f36b) loaded
+User (steam:11000010706f36b) saved and unloaded
+User (steam:11000013be712c2) loaded
+User (steam:11000011bb0fed8) loaded
+User (steam:1100001001d5271) saved and unloaded
+User (steam:11000013be712c2) saved and unloaded
+User (steam:110000134b32e63) loaded
+User (steam:1100001033bc6c3) loaded
+User (steam:11000010de9849e) loaded
+User (ABDOUL) ran admin command dv, with parameters: 
+User (James Cook) ran admin command setjob, with parameters: 124 bucheron 3
+User (James Cook) ran admin command setjob, with parameters: 124 bucheron 1
+User (James Cook) ran admin command setjob, with parameters: 124 bucheron 0
+User (ABDOUL) ran admin command dv, with parameters: 
+User (James Cook) ran admin command dv, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000010a6805e5) saved and unloaded
+User (steam:11000013be712c2) loaded
+User (steam:11000011a3682f1) loaded
+User (steam:11000010a6805e5) loaded
+User (steam:11000013bb1cd5f) loaded
+User (steam:110000114654f60) loaded
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000013c442619) saved and unloaded
+User (steam:11000013d9adc95) saved and unloaded
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (ABDOUL) ran admin command dv, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000013be712c2) saved and unloaded
+User (steam:11000013bf6aaa5) saved and unloaded
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000013be712c2) loaded
+User (steam:11000013be712c2) loaded
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000013b243b61) loaded
+User (steam:1100001391f00db) loaded
+User (steam:11000010c6881d8) loaded
+User (ABDOUL) ran admin command setjob, with parameters: 120 police 4
+User (ABDOUL) ran admin command dv, with parameters: 
+User (ABDOUL) ran admin command setjob, with parameters: 120 gouv 3
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:1100001147b0cc8) loaded
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:1100001005b0bb5) loaded
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:11000010cd0165b) saved and unloaded
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:1100001005b0bb5) saved and unloaded
+User (steam:11000011394cf7b) saved and unloaded
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:1100001005b0bb5) loaded
+User (steam:1100001005b0bb5) saved and unloaded
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+User (steam:1100001005b0bb5) loaded
+User (James Cook) ran admin command spec, with parameters: 
+User (James Cook) ran admin command spec, with parameters: 
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000011a3682f1) loaded
+User (steam:11000013cb706e7) loaded
+User (steam:11000010b90d340) loaded
+User (steam:11000011bb0fed8) loaded
+User (steam:11000010c6881d8) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000010653318f) loaded
+User (steam:11000010c7608e8) loaded
+User (steam:1100001147b0cc8) loaded
+User (steam:1100001033bc6c3) loaded
+User (steam:11000010eb6f781) loaded
+User (steam:110000134b32e63) loaded
+User (steam:1100001391f00db) loaded
+User (steam:11000010837f051) loaded
+User (steam:11000011394cf7b) loaded
+User (steam:11000010e7939f8) loaded
+User (steam:11000013b243b61) loaded
+User (steam:11000013be712c2) loaded
+User (steam:1100001172a6180) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000011bb0fed8) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000011bb0fed8) loaded
+User (steam:11000011b11bffb) saved and unloaded
+User (steam:11000011a3682f1) saved and unloaded
+User (steam:1100001005b0bb5) loaded
+User (steam:11000011b11bffb) loaded
+User (steam:11000010e7939f8) saved and unloaded
+User (steam:1100001391f00db) saved and unloaded
+User (steam:11000010c7608e8) saved and unloaded
+User (steam:11000010837f051) saved and unloaded
+User (steam:11000010c7608e8) loaded
+User (ABDOUL) ran admin command dv, with parameters: 
+User (steam:110000134b32e63) saved and unloaded
+User (steam:11000013b243b61) saved and unloaded
+User (steam:1100001005b0bb5) saved and unloaded
+User (steam:11000010c6881d8) saved and unloaded
+User (steam:11000010653318f) saved and unloaded
+User (steam:1100001172a6180) saved and unloaded
+User (steam:1100001033bc6c3) saved and unloaded
+User (steam:110000136caa057) loaded
+User (steam:110000136caa057) saved and unloaded
+User (steam:11000013cb706e7) saved and unloaded
+User (steam:11000013b243b61) loaded
+User (steam:11000011bb0fed8) saved and unloaded
+User (steam:11000013d9adc95) loaded
+User (steam:11000011bb0fed8) loaded
+User (steam:11000013d9adc95) saved and unloaded
+User (steam:11000013b243b61) saved and unloaded
+User (steam:11000010b90d340) saved and unloaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000013d9adc95) loaded
+User (steam:11000013be712c2) loaded
+User (steam:1100001147b0cc8) saved and unloaded
+User (steam:11000013d9adc95) saved and unloaded
+User (steam:11000013be712c2) saved and unloaded
+User (steam:11000010c7608e8) saved and unloaded

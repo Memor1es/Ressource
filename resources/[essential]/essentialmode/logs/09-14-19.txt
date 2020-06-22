@@ -1,0 +1,922 @@
+-- Begin of log for 09-14-19 --
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000139af4f5a) loaded
+User (steam:11000010aa1923a) loaded
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001134357fd) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000109db3d94) loaded
+User (steam:11000010aa1923a) loaded
+User (steam:110000139af4f5a) loaded
+User (steam:1100001134357fd) loaded
+User (steam:110000113baa5ff) loaded
+User (steam:11000011cfab7f2) loaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000110c0ec26) loaded
+User (steam:1100001332eab81) loaded
+User (steam:110000108334361) loaded
+User (raoule) ran admin command mapper, with parameters: 
+User (raoule) ran admin command mapper, with parameters: 
+User (steam:1100001332eab81) saved and unloaded
+User (steam:1100001332eab81) loaded
+User (steam:11000013ccb7c11) loaded
+User (steam:110000108334361) saved and unloaded
+User (Math) ran admin command revive, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:110000134d2a9a4) loaded
+User (Math) ran admin command car, with parameters: sultan
+User (steam:110000109db3d94) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (steam:11000013ccb7c11) saved and unloaded
+User (steam:110000139af4f5a) saved and unloaded
+User (steam:110000113baa5ff) saved and unloaded
+User (steam:11000010aa1923a) saved and unloaded
+User (steam:1100001332eab81) saved and unloaded
+User (steam:11000013ccb7c11) loaded
+User (steam:110000113baa5ff) loaded
+User (steam:110000139af4f5a) loaded
+User (steam:1100001332eab81) loaded
+User (steam:110000113baa5ff) saved and unloaded
+User (steam:1100001332eab81) saved and unloaded
+User (steam:110000113baa5ff) loaded
+User (steam:1100001332eab81) loaded
+User (steam:1100001332eab81) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command car, with parameters: nightshark
+User (steam:110000110c0ec26) saved and unloaded
+User (steam:11000010d595206) loaded
+User (Fares) ran admin command dv, with parameters: 
+User (steam:11000011af80881) loaded
+User (steam:1100001134357fd) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010f655cb5) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:110000105897270) loaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:1100001134357fd) loaded
+User (steam:11000010d595206) loaded
+User (steam:110000134609d6c) loaded
+User (Morgan Kennedy/ Diana Bijop) ran admin command dv, with parameters: 
+User (steam:1100001134357fd) loaded
+User (steam:11000010f655cb5) saved and unloaded
+User (steam:110000110c0ec26) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000135560a64) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000110c0ec26) saved and unloaded
+User (steam:110000134609d6c) saved and unloaded
+User (Fares) ran admin command revive, with parameters: 
+User (steam:11000013b721dfc) loaded
+User (steam:110000110c0ec26) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000134609d6c) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (Fares) ran admin command revive, with parameters: 
+User (steam:1100001134357fd) saved and unloaded
+User (steam:110000105897270) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000105897270) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command revive, with parameters: 19
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001045f6526) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010d595206) saved and unloaded
+User (steam:1100001045f6526) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Fares) ran admin command loadwl, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001034ba24f) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000113baa5ff) saved and unloaded
+User (steam:110000113baa5ff) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010cf4a1f9) loaded
+User (steam:1100001025d0ea2) loaded
+User (steam:110000134609d6c) saved and unloaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000109db3d94) loaded
+User (steam:11000010c555c79) loaded
+User (Math) ran admin command revive, with parameters: 
+User (steam:11000010d461673) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000109db3d94) saved and unloaded
+User (steam:11000011ce68d98) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001361746d5) loaded
+User (steam:11000011ce68d98) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001361746d5) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010d698f05) saved and unloaded
+User (Navex) ran admin command revive, with parameters: 19
+User (Navex) ran admin command revive, with parameters: 19
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:11000010d461673) saved and unloaded
+User (steam:110000111b1aaf5) loaded
+User (steam:11000010d461673) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d461673) saved and unloaded
+User (steam:11000010d461673) loaded
+User (steam:11000010d461673) saved and unloaded
+User (steam:110000139af4f5a) saved and unloaded
+User (steam:11000010d461673) loaded
+User (steam:1100001040bf237) loaded
+User (steam:110000110d0973e) loaded
+User (steam:11000011ce68d98) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:11000013ccb7c11) saved and unloaded
+User (steam:11000011ce68d98) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (KIRIOSE) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command mapper, with parameters: 
+User (steam:110000118bb5703) loaded
+User (steam:110000110d0973e) saved and unloaded
+User (steam:110000116edfcd8) loaded
+User (steam:11000010d461673) saved and unloaded
+User (steam:1100001025d0ea2) saved and unloaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010efc6a55) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010c555c79) saved and unloaded
+User (steam:1100001191324ee) loaded
+User (steam:1100001338ebc94) loaded
+User (steam:11000010efc6a55) saved and unloaded
+User (steam:1100001025d0ea2) loaded
+User (steam:110000104c06391) loaded
+User (steam:11000010efc6a55) loaded
+User (steam:11000010db2f027) loaded
+User (steam:11000010021400e) loaded
+User (steam:11000010021400e) saved and unloaded
+User (steam:11000010e5880ff) loaded
+User (steam:11000010efc6a55) saved and unloaded
+User (steam:11000010d595206) loaded
+User (steam:11000010efc6a55) loaded
+User (steam:110000116edfcd8) saved and unloaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:11000010d595206) loaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:11000013d0d3ded) loaded
+User (steam:1100001046454f6) loaded
+User (steam:110000104c06391) saved and unloaded
+User (steam:11000013690cc62) loaded
+User (steam:11000010968d772) loaded
+User (steam:1100001025782f4) loaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (iMeelk) ran admin command spec, with parameters: 
+User (iMeelk) ran admin command spec, with parameters: 
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (steam:110000131d13846) loaded
+User (steam:11000010968d772) loaded
+User (steam:1100001040bf237) loaded
+User (steam:11000010a54e6de) loaded
+User (steam:11000010f20907b) loaded
+User (steam:11000013690cc62) saved and unloaded
+User (steam:11000010efc6a55) saved and unloaded
+User (steam:110000131d13846) saved and unloaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:11000010a54e6de) loaded
+User (steam:11000010e5880ff) saved and unloaded
+User (steam:11000013699d1b3) loaded
+User (steam:11000013699d1b3) saved and unloaded
+User (steam:110000135560a64) saved and unloaded
+User (steam:11000010c3a150d) loaded
+User (steam:11000013699d1b3) loaded
+User (steam:1100001134357fd) loaded
+User (steam:1100001191324ee) saved and unloaded
+User (steam:1100001338ebc94) saved and unloaded
+User (steam:11000010f20907b) saved and unloaded
+User (Sony Lucciani) ran admin command car, with parameters: toros 1
+User (steam:1100001134357fd) loaded
+User (steam:110000105897270) saved and unloaded
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (steam:11000010cf4a1f9) saved and unloaded
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (steam:1100001134357fd) loaded
+User (steam:110000134d2a9a4) saved and unloaded
+User (steam:1100001034ba24f) saved and unloaded
+User (steam:11000013690cc62) loaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:11000010a54e6de) loaded
+User (steam:110000134d2a9a4) loaded
+User (steam:1100001046454f6) saved and unloaded
+User (steam:11000010968d772) saved and unloaded
+User (steam:110000110c0ec26) saved and unloaded
+User (steam:11000010968d772) loaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:11000013690cc62) saved and unloaded
+User (steam:11000013d0d3ded) saved and unloaded
+User (steam:1100001134357fd) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000013bc41cd3) loaded
+User (steam:11000010492d79e) loaded
+User (steam:110000111b1aaf5) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:11000013bfe5b02) loaded
+User (steam:1100001046454f6) loaded
+User (steam:11000011cfab7f2) loaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010d698f05) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000112a8ab79) loaded
+User (steam:11000013699d1b3) loaded
+User (iProMx) ran admin command mapper, with parameters: 
+User (steam:110000113baa5ff) loaded
+User (iProMx) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000013699d1b3) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000013b721dfc) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000134d2a9a4) loaded
+User (steam:110000131d13846) loaded
+User (steam:11000011af80881) loaded
+User (iProMx) ran admin command mapper, with parameters: 
+User (steam:11000013699d1b3) loaded
+User (steam:1100001040bf237) loaded
+User (iProMx) ran admin command mapper, with parameters: 
+User (steam:1100001134357fd) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:110000118bb5703) loaded
+User (Fares) ran admin command spec, with parameters: 
+User (Fares) ran admin command spec, with parameters: 
+User (steam:110000110c0ec26) loaded
+User (steam:110000131d13846) saved and unloaded
+User (steam:11000013d0d3ded) loaded
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (Sony Lucciani) ran admin command car, with parameters: toros 1
+User (Navex) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (steam:110000131d13846) loaded
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001191324ee) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000113baa5ff) saved and unloaded
+User (steam:11000010968d772) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (iMeelk) ran admin command spec, with parameters: 
+User (Sony Lucciani) ran admin command giveweapon, with parameters: 15 weapon_molotov 5
+User (steam:1100001025782f4) loaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (steam:11000013bc41cd3) saved and unloaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command giveitem, with parameters: 23 prisonnier 3
+User (iMeelk) ran admin command spec, with parameters: 
+User (Fares) ran admin command loadwl, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command revive, with parameters: 2
+User (Navex) ran admin command revive, with parameters: 2
+User (Fares) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command loadwl, with parameters: 
+User (steam:1100001338ebc94) loaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:110000105897270) loaded
+User (Navex) ran admin command revive, with parameters: 26
+User (steam:1100001046454f6) saved and unloaded
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (steam:11000013699d1b3) loaded
+User (steam:11000011348548e) loaded
+User (steam:11000010d595206) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000131d13846) saved and unloaded
+User (steam:1100001040bf237) saved and unloaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:110000105897270) saved and unloaded
+User (iProMx) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010d595206) loaded
+User (steam:1100001040bf237) loaded
+User (steam:1100001191324ee) saved and unloaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:110000105897270) loaded
+User (steam:1100001134357fd) saved and unloaded
+User (Lenny Pierce) tried to execute command without having permission: revive
+User (iMeelk) ran admin command spec, with parameters: 
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000010492d79e) loaded
+User (steam:11000010d595206) loaded
+User (steam:110000105897270) loaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:11000011cfab7f2) loaded
+User (steam:110000115381ac5) loaded
+User (steam:11000010d595206) loaded
+User (steam:110000118bb5703) loaded
+User (steam:110000111b1aaf5) loaded
+User (steam:11000013bfe5b02) loaded
+User (steam:11000011af80881) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:1100001068928b2) loaded
+User (steam:11000013b721dfc) loaded
+User (steam:11000013d0d3ded) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010d698f05) loaded
+User (steam:11000013bfe5b02) loaded
+User (steam:110000134d2a9a4) loaded
+User (steam:110000113baa5ff) loaded
+User (steam:1100001332eab81) loaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:1100001188b2e58) loaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command loadwl, with parameters: 
+User (steam:11000013bfe5b02) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:1100001119bb826) loaded
+User (steam:110000131d13846) loaded
+User (steam:110000117af0c35) loaded
+User (steam:11000013bfe5b02) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (Lenny Pierce) tried to execute command without having permission: menu
+User (Sandro Blasco) tried to execute command without having permission: menu
+User (steam:110000133c544b2) loaded
+User (MICHAEL MACCAULEY) tried to execute command without having permission: menu
+User (steam:11000013bfe5b02) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000133c544b2) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (steam:11000013bfe5b02) loaded
+User (steam:110000133c544b2) loaded
+User (Navex) ran admin command setjob, with parameters: 14 police 1
+User (steam:1100001025782f4) loaded
+User (Navex) ran admin command setjob, with parameters: 14 police 6
+User (steam:11000013bfe5b02) saved and unloaded
+User (Navex) ran admin command setjob, with parameters: 14 police 5
+User (Navex) ran admin command setjob, with parameters: 14 police 3
+User (Navex) ran admin command setjob, with parameters: 14 police 4
+User (Navex) ran admin command setjob, with parameters: 5 police 4
+User (Navex) ran admin command setjob, with parameters: 33 police 4
+User (steam:11000011af80881) saved and unloaded
+User (steam:11000013b721dfc) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000013bfe5b02) loaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000013bfe5b02) loaded
+User (steam:110000113baa5ff) loaded
+User (steam:110000115d83686) loaded
+User (steam:110000131d13846) loaded
+User (steam:11000011b1b24cb) loaded
+User (steam:110000134d2a9a4) loaded
+User (steam:11000011cfab7f2) loaded
+User (steam:110000115381ac5) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000105897270) loaded
+User (steam:1100001119bb826) loaded
+User (steam:11000010d595206) loaded
+User (steam:1100001188b2e58) loaded
+User (steam:11000010d595206) saved and unloaded
+User (steam:11000013690cc62) loaded
+User (steam:11000013690cc62) saved and unloaded
+User (steam:110000111b1aaf5) loaded
+User (steam:110000133c544b2) loaded
+User (steam:11000013d0d3ded) loaded
+User (steam:1100001344209f9) loaded
+User (steam:11000010968d772) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:110000118bb5703) loaded
+User (steam:11000010c3a150d) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:1100001025782f4) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:11000010a54e6de) loaded
+User (steam:11000013b721dfc) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000013bfe5b02) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command giveitem, with parameters: 8 prisonnier
+User (steam:11000011a7c93b1) loaded
+User (steam:11000010f20907b) loaded
+User (steam:110000134747163) loaded
+User (steam:11000010492d79e) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:1100001068928b2) loaded
+User (steam:1100001344209f9) saved and unloaded
+User (Fares) ran admin command setjob, with parameters: 32 police 4
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:11000010d595206) loaded
+User (steam:11000010d698f05) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:110000111b1aaf5) saved and unloaded
+User (steam:110000115d83686) saved and unloaded
+User (steam:110000110c0ec26) loaded
+User (steam:1100001073f86ec) loaded
+User (steam:11000013bfe5b02) loaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (steam:1100001068928b2) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010ca48a82) loaded
+User (steam:1100001332eab81) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:110000117af0c35) loaded
+User (steam:11000010492d79e) saved and unloaded
+User (steam:110000133c544b2) saved and unloaded
+User (steam:11000011b1b24cb) saved and unloaded
+User (steam:110000133c544b2) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010ca48a82) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000114582c8a) loaded
+User (steam:1100001344209f9) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:110000109ffaecb) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000102a721a6) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (steam:1100001132f0d97) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000010f655cb5) loaded
+User (steam:110000117382c50) loaded
+User (steam:11000010492d79e) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000013bfe5b02) loaded
+User (steam:11000010d698f05) saved and unloaded
+User (steam:1100001068928b2) loaded
+User (steam:1100001068928b2) saved and unloaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:11000011b1b24cb) loaded
+User (steam:11000010492d79e) saved and unloaded
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000013cfc094c) loaded
+User (steam:11000010d698f05) loaded
+User (steam:11000013cfc094c) saved and unloaded
+User (steam:11000010bb31e95) loaded
+User (Fares) ran admin command mapper, with parameters: 
+User (steam:11000013bfe5b02) loaded
+User (steam:11000013cfc094c) loaded
+User (steam:11000010c3a150d) saved and unloaded
+User (steam:11000011af51cbd) loaded
+User (steam:11000011b1b24cb) saved and unloaded
+User (steam:1100001068928b2) loaded
+User (steam:110000115d83686) loaded
+User (steam:11000013690cc62) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command mapper, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command car, with parameters: sanchez
+User (steam:110000117382c50) saved and unloaded
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command skin, with parameters: 
+User (Billal Bensliman) ran admin command skin, with parameters: 
+User (steam:11000010c55d098) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 55
+User (steam:110000110d0973e) loaded
+User (steam:1100001191324ee) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 55
+User (steam:1100001175622e3) loaded
+User (steam:11000010a54e6de) loaded
+User (steam:11000013bfe5b02) loaded
+User (steam:11000010f655cb5) saved and unloaded
+User (steam:11000010c3a150d) loaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:110000133c544b2) saved and unloaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:11000010b395735) loaded
+User (steam:110000133c544b2) loaded
+User (steam:11000010ba836e8) loaded
+User (steam:11000010bb31e95) saved and unloaded
+User (steam:110000111b1aaf5) loaded
+User (steam:11000013bfe5b02) loaded
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:11000010b576d28) loaded
+User (steam:110000109ffaecb) loaded
+User (steam:11000011b1b24cb) loaded
+User (steam:1100001175622e3) saved and unloaded
+User (steam:1100001338ebc94) loaded
+User (steam:110000134609d6c) loaded
+User (Fares) ran admin command car, with parameters: sanchez
+User (steam:11000010c555c79) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:1100001175622e3) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:11000010b576d28) saved and unloaded
+User (steam:110000104c06391) loaded
+User (steam:110000102b793c2) loaded
+User (steam:1100001025d0ea2) loaded
+User (steam:11000010b576d28) loaded
+User (steam:11000013a0fb4e0) loaded
+User (steam:11000010968d772) loaded
+User (steam:11000010609e543) loaded
+User (steam:11000010a54e6de) saved and unloaded
+User (steam:11000011d1cfb9a) loaded
+User (steam:11000010492d79e) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 80
+User (steam:1100001073f86ec) saved and unloaded
+User (steam:11000010cf4a1f9) loaded
+User (steam:11000010b576d28) saved and unloaded
+User (steam:1100001040bf237) loaded
+User (steam:110000134d9749c) loaded
+User (steam:1100001073f86ec) loaded
+User (steam:1100001152c96ef) loaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000011348548e) loaded
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:110000109ffaecb) loaded
+User (steam:110000134d437ea) loaded
+User (steam:11000010b395735) saved and unloaded
+User (iMeelk) ran admin command revive, with parameters: 93
+User (iMeelk) ran admin command revive, with parameters: 80
+User (steam:110000109ffaecb) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010b395735) loaded
+User (steam:1100001134357fd) loaded
+User (steam:11000010968d772) loaded
+User (steam:11000010609e543) loaded
+User (steam:110000134d9749c) saved and unloaded
+User (steam:11000010609e543) loaded
+User (steam:11000010609e543) saved and unloaded
+User (steam:1100001134357fd) saved and unloaded
+User (steam:110000115ba1848) loaded
+User (steam:110000111b1aaf5) saved and unloaded
+User (steam:1100001366c231a) loaded
+User (steam:1100001134357fd) loaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:110000111b1aaf5) loaded
+User (steam:110000111b1aaf5) saved and unloaded
+User (steam:11000013690cc62) loaded
+User (steam:11000013690cc62) loaded
+User (steam:11000013690cc62) loaded
+User (steam:1100001134357fd) loaded
+User (steam:1100001134357fd) loaded
+User (steam:11000011af80881) loaded
+User (steam:11000010a54e6de) loaded
+User (steam:1100001187ca5a0) loaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:11000010998cc27) loaded
+User (steam:1100001134357fd) saved and unloaded
+User (steam:110000139e88969) loaded
+User (steam:110000111b1aaf5) loaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:11000010e65944e) loaded
+User (steam:1100001134357fd) loaded
+User (steam:11000010c519b4e) loaded
+User (steam:11000010d698f05) loaded
+User (steam:110000134747163) loaded
+User (steam:110000134747163) saved and unloaded
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 93 phone 1
+User (steam:11000010998cc27) saved and unloaded
+User (steam:110000105897270) saved and unloaded
+User (steam:110000134747163) loaded
+User (steam:11000010998cc27) loaded
+User (steam:11000011ce68d98) loaded
+User (steam:110000105897270) loaded
+User (steam:11000010feb29a8) loaded
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (steam:11000010c555c79) saved and unloaded
+User (steam:1100001332eab81) saved and unloaded
+User (iMeelk) ran admin command car, with parameters: toros
+User (steam:110000105897270) saved and unloaded
+User (steam:110000115d83686) saved and unloaded
+User (steam:11000010c555c79) loaded
+User (steam:110000115d83686) loaded
+User (steam:11000010021400e) loaded
+User (steam:11000010b395735) saved and unloaded
+User (steam:110000110c0ec26) saved and unloaded
+User (steam:110000133c544b2) saved and unloaded
+User (steam:110000117af0c35) saved and unloaded
+User (steam:11000010b395735) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 93 gps 1
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 62 phone 1
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 80 phone 1
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 62 gps 1
+User (steam:110000136957db3) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 80 gps 1
+User (steam:110000110c0ec26) loaded
+User (steam:110000110c0ec26) saved and unloaded
+User (steam:110000133c544b2) loaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:11000013699d1b3) loaded
+User (steam:110000110c0ec26) loaded
+User (Sony Lucciani) ran admin command car, with parameters: double t
+User (steam:11000013699d1b3) saved and unloaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:110000104e2d49b) loaded
+User (steam:11000013bc41cd3) loaded
+User (steam:11000010b4c670d) loaded
+User (steam:11000013bc41cd3) saved and unloaded
+User (steam:11000013699d1b3) loaded
+User (steam:110000104e2d49b) saved and unloaded
+User (Sony Lucciani) ran admin command car, with parameters: double t
+User (steam:11000013bc41cd3) loaded
+User (steam:110000104e2d49b) loaded
+User (steam:1100001050b54c2) loaded
+User (steam:110000104e2d49b) saved and unloaded
+User (steam:11000013bc41cd3) saved and unloaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:110000131d13846) saved and unloaded
+User (steam:11000013bc41cd3) loaded
+User (steam:11000010e65944e) saved and unloaded
+User (steam:11000010998cc27) saved and unloaded
+User (iMeelk) ran admin command spec, with parameters: 
+User (steam:11000010998cc27) loaded
+User (steam:11000010c3a150d) saved and unloaded
+User (steam:1100001332eab81) loaded
+User (Sony Lucciani) ran admin command car, with parameters: double t
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:1100001344209f9) loaded
+User (steam:1100001332eab81) saved and unloaded
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 
+User (steam:11000010ba836e8) saved and unloaded
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:11000010c3a150d) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:11000010ba836e8) loaded
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:1100001344209f9) loaded
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (★ 101!p0k!(4k3 ★) ran admin command revive, with parameters: 
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:1100001025782f4) saved and unloaded
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:110000112a8ab79) loaded
+User (Sony Lucciani) ran admin command car, with parameters: t20
+User (iProMx) ran admin command mapper, with parameters: 
+User (steam:1100001069706b5) loaded
+User (steam:110000139e88969) saved and unloaded
+User (steam:1100001344209f9) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command skin, with parameters: 
+User (steam:1100001344209f9) saved and unloaded
+User (Sony Lucciani) ran admin command car, with parameters: t20
+User (steam:1100001344209f9) loaded
+User (Sony Lucciani) ran admin command car, with parameters: 
+User (Sony Lucciani) ran admin command car, with parameters: t20
+User (steam:1100001073f86ec) saved and unloaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:110000139e88969) loaded
+User (steam:110000115ba1848) saved and unloaded
+User (Sony Lucciani) ran admin command car, with parameters: supervolito
+User (steam:1100001073f86ec) loaded
+User (steam:11000010f655cb5) loaded
+User (steam:110000115ba1848) loaded
+User (Sony Lucciani) ran admin command car, with parameters: t20
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:11000010f20907b) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (steam:110000104b4186c) loaded
+User (steam:110000104b4186c) saved and unloaded
+User (steam:110000104b4186c) loaded
+User (steam:110000115ba1848) saved and unloaded
+User (steam:11000010c751ab1) loaded
+User (steam:11000010c751ab1) saved and unloaded
+User (KIRIOSE) ran admin command car, with parameters: schafter3
+User (steam:110000115ba1848) loaded
+User (steam:110000139849eac) loaded
+User (steam:110000112a8ab79) saved and unloaded
+User (steam:110000134609d6c) saved and unloaded
+User (steam:11000010c751ab1) loaded
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (steam:1100001175622e3) saved and unloaded
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (steam:11000010b6815eb) loaded
+User (steam:110000117af0c35) loaded
+User (steam:1100001175622e3) loaded
+User (steam:1100001025d0ea2) saved and unloaded
+User (KIRIOSE) ran admin command setjob, with parameters: 8 cardealer 4
+User (KIRIOSE) ran admin command setjob, with parameters: 8 cardealer 3
+User (steam:11000010cf4a1f9) saved and unloaded
+User (steam:11000010213308b) loaded
+User (steam:1100001188b2e58) saved and unloaded
+User (steam:11000010493c67a) loaded
+User (steam:11000010021400e) saved and unloaded
+User (steam:110000134609d6c) loaded
+User (steam:110000115d43247) loaded
+User (steam:11000010021400e) loaded
+User (Lenny Pierce) ran admin command giveitem, with parameters: 56 blotwtorch 1
+User (Lenny Pierce) ran admin command giveitem, with parameters: 56 blowtorch 1
+User (steam:1100001332eab81) loaded
+User (steam:1100001188b2e58) loaded
+User (Sony Lucciani) ran admin command giveitem, with parameters: 136 water 5
+User (Lenny Pierce) ran admin command giveitem, with parameters: 56 phone 1
+User (steam:110000134609d6c) saved and unloaded
+User (steam:11000010021400e) saved and unloaded
+User (steam:110000134d9749c) loaded
+User (Juan Pablo Sanchez) tried to execute command without having permission: skin
+User (steam:11000010021400e) loaded
+User (steam:110000134609d6c) loaded
+User (steam:1100001175622e3) saved and unloaded
+User (steam:110000134d9749c) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command setjob, with parameters: 151 journalist 1
+User (steam:1100001175622e3) loaded
+User (steam:1100001175622e3) saved and unloaded
+User (Lenny Pierce) ran admin command revive, with parameters: 
+User (steam:1100001131e95aa) loaded
+User (steam:11000010655b07b) loaded
+User (steam:1100001131e95aa) saved and unloaded
+User (steam:1100001131e95aa) loaded
+User (steam:1100001175622e3) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command spec, with parameters: 
+User (steam:110000114611e8c) loaded
+User (steam:11000010c751ab1) saved and unloaded
+User (steam:11000011ce68d98) saved and unloaded
+User (steam:11000013bfe5b02) saved and unloaded
+User (steam:11000010c751ab1) loaded
+User (steam:11000011c9c6305) loaded
+User (steam:11000010ca48a82) loaded
+User (steam:1100001338ebc94) saved and unloaded
+User (steam:110000104907536) loaded
+User (steam:110000114611e8c) saved and unloaded
+User (steam:110000115ba1848) saved and unloaded
+User (steam:110000115ba1848) loaded
+User (steam:1100001073a9085) loaded
+User (steam:1100001062637dd) loaded
+User (steam:1100001062637dd) saved and unloaded
+User (steam:1100001050b54c2) saved and unloaded
+User (steam:110000117af0c35) saved and unloaded
+User (steam:110000135560a64) loaded
+User (steam:1100001062637dd) loaded
+User (steam:110000111ac30fa) loaded
+User (steam:11000013a0fb4e0) saved and unloaded
+User (steam:1100001050b54c2) loaded
+User (steam:110000111ac30fa) saved and unloaded
+User (steam:110000117af0c35) loaded
+User (steam:1100001332eab81) saved and unloaded
+User (Fares) ran admin command dv, with parameters: 
+User (steam:11000010a54e6de) loaded
+User (steam:110000111ac30fa) loaded
+User (steam:11000010a54e6de) saved and unloaded
+User (steam:11000010f655cb5) saved and unloaded
+User (Sony Lucciani) ran admin command car, with parameters: double t
+User (steam:11000010c3a150d) saved and unloaded
+User (steam:1100001134357fd) saved and unloaded
+User (steam:110000104b4186c) saved and unloaded
+User (steam:11000010f655cb5) loaded
+User (steam:11000010f655cb5) saved and unloaded
+User (steam:110000115d43247) saved and unloaded
+User (steam:1100001134357fd) loaded
+User (Sony Lucciani) ran admin command car, with parameters: sanchez
+User (Sony Lucciani) ran admin command car, with parameters: sanchez
+User (steam:110000134747163) saved and unloaded
+User (steam:11000010c555c79) saved and unloaded
+User (steam:11000010c555c79) loaded
+User (steam:11000010f655cb5) loaded
+User (steam:11000010ab10629) loaded
+User (Fares) ran admin command loadwl, with parameters: 
+User (steam:11000011c9c6305) saved and unloaded
+User (steam:11000010968d772) saved and unloaded
+User (steam:1100001062637dd) saved and unloaded
+User (steam:110000134747163) loaded
+User (steam:11000013cfc094c) saved and unloaded
+User (steam:1100001062637dd) loaded
+User (★ 101!p0k!(4k3 ★) ran admin command giveitem, with parameters: 57 water 5
+User (steam:1100001152c96ef) saved and unloaded
+User (steam:1100001131e95aa) saved and unloaded
+User (steam:11000013d10cc48) loaded
+User (steam:11000010021400e) saved and unloaded
+User (steam:1100001131e95aa) loaded
+User (Johann Gousset) tried to execute command without having permission: disconnect
+User (steam:11000013d10cc48) saved and unloaded
+User (steam:110000111ac30fa) loaded
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (Sony Lucciani) ran admin command dv, with parameters: 
+User (steam:11000013d10cc48) loaded
+User (steam:1100001152c96ef) loaded
+User (steam:11000013d10cc48) saved and unloaded
+User (steam:11000010a54e6de) loaded
+User (steam:11000010a54e6de) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000013d10cc48) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010a54e6de) loaded
+User (steam:11000013699d1b3) saved and unloaded
+User (steam:110000113baa5ff) saved and unloaded
+User (steam:11000010998cc27) saved and unloaded
+User (steam:1100001132f0d97) saved and unloaded
+User (steam:110000131d13846) loaded
+User (steam:110000113baa5ff) loaded
+User (steam:1100001132f0d97) loaded
+User (steam:110000131d13846) saved and unloaded
+User (Fares) ran admin command car, with parameters: shlagen
+User (steam:11000010998cc27) loaded
+User (steam:11000013699d1b3) loaded
+User (steam:110000110d0973e) saved and unloaded

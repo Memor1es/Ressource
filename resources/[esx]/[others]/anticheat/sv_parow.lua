@@ -1,0 +1,10 @@
+RegisterServerEvent("helloimprobacheater")
+AddEventHandler("helloimprobacheater", function()
+    print(source)
+    print(GetPlayerName(source))
+end)
+
+RegisterServerEvent("helloimprobacheater2")
+AddEventHandler("helloimprobacheater2", function(send)
+    --print("Explosion : " .. GetPlayerName(send))
+end)

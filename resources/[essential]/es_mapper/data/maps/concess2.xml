@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Metadata>
+    <Creator>es_mapper</Creator>
+    <Name>es_mapper</Name>
+    <Description>es_mapper</Description>
+    <TeleportPoint>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>0.0</Z>
+      <Heading>0.0</Heading>
+    </TeleportPoint>
+  </Metadata>
+  <Objects>
+    <MapObject>
+      <Type>Prop</Type>
+      <Hash>1071105235</Hash>
+      <Name>prop_biolab_g_door</Name>
+      <Dynamic>true</Dynamic>
+      <Door>false</Door>
+      <Position>
+        <X>-28.88570022583</X>
+        <Y>-1086.5941162109</Y>
+        <Z>27.667594909668</Z>
+      </Position>
+      <Rotation>
+        <X>0.0</X>
+        <Y>0.0</Y>
+        <Z>160.075</Z>
+      </Rotation>
+      <Quaternion>
+        <X>0.0</X>
+        <Y>0.0</Y>
+        <Z>0.98492119454043</Z>
+        <W>0.17300358535317</W>
+      </Quaternion>
+    </MapObject>
+  </Objects>
+</Map>

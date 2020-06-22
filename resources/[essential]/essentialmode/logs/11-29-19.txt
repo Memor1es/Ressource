@@ -1,0 +1,6 @@
+-- Begin of log for 11-29-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) saved and unloaded

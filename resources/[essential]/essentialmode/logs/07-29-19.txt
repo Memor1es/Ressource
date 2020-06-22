@@ -1,0 +1,483 @@
+-- Begin of log for 07-29-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 2
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 2
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 1
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 1
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 2
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command giveitem, with parameters: 1 cigar 5
+User (Nawax) ran admin command giveitem, with parameters: 1 malbora 5
+User (Nawax) ran admin command giveitem, with parameters: 1 briquet 10
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 2
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command giveitem, with parameters: 1 malbora 60
+User (Nawax) ran admin command giveitem, with parameters: 1 cigar 60
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 journalist 2
+User (Nawax) ran admin command setjob, with parameters: 1 palace 2
+User (Nawax) ran admin command setjob, with parameters: 1 taxi 2
+User (Nawax) ran admin command setjob, with parameters: 1 gouv 2
+User (Nawax) ran admin command setjob, with parameters: 1 cardealer 2
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 1
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 2
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command giveitem, with parameters: 1 water 50
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (Nawax) ran admin command setjob, with parameters: 1 tabac 4
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command car, with parameters: rumpo2
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: rumpo2
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: rumpo2
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: rumpo2
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command giveitem, with parameters: 1 tabacsec 10
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 2
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 4
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command giveitem, with parameters: 1 raisin 50
+User (Nawax) ran admin command giveitem, with parameters: 1 raisin 50
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 1 vigneron 3
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000113e785be) loaded
+User (Junior Osment) tried to execute command without having permission: menu
+User (steam:110000113e785be) saved and unloaded
+User (steam:11000010968d772) loaded
+User (steam:11000010968d772) saved and unloaded
+User (steam:11000010968d772) loaded
+User (steam:110000113e785be) loaded
+User (Junior Osment) tried to execute command without having permission: menu
+User (steam:110000113e785be) loaded
+User (iMeelk) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 0
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 1
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 2
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 3
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 5
+User (Junior Osment) ran admin command setjob, with parameters: 5 taxi 4
+User (Junior Osment) ran admin command menu, with parameters: 
+User (iMeelk) ran admin command setjob, with parameters: 4 mecanich
+User (iMeelk) ran admin command setjob, with parameters: 4 mechanic 4
+User (Junior Osment) ran admin command setjob, with parameters: 5 mechanic 3
+User (Junior Osment) ran admin command car, with parameters: police 2
+User (Junior Osment) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (Junior Osment) ran admin command dv, with parameters: 
+User (Junior Osment) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (Junior Osment) ran admin command car, with parameters: autarch
+User (Junior Osment) ran admin command setjob, with parameters: 5 bacar's 3
+User (Junior Osment) ran admin command setjob, with parameters: 5 bacars 3
+User (Junior Osment) ran admin command setjob, with parameters: 5 bacars 0
+User (Junior Osment) ran admin command car, with parameters: s80
+User (Junior Osment) ran admin command car, with parameters: s80t/car deveste
+User (steam:110000113e785be) saved and unloaded
+User (steam:110000113e785be) loaded
+User (Junior Osment) ran admin command car, with parameters: emerus
+User (Junior Osment) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command setjob, with parameters: 4 cardealer 4
+User (iMeelk) ran admin command setjob, with parameters: 4 cardealer 1
+User (iMeelk) ran admin command setjob, with parameters: 4 cardealer 4
+User (iMeelk) ran admin command setjob, with parameters: 4 cardealer 3
+User (iMeelk) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command dv, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (Junior Osment) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command setjob, with parameters: 6 cardealer 3
+User (Junior Osment) ran admin command setjob, with parameters: 6 avocat 0
+User (Junior Osment) ran admin command setjob, with parameters: 6 avocat 1
+User (steam:110000113e785be) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:11000010968d772) loaded
+User (iMeelk) ran admin command setjob, with parameters: 9 police 4
+User (steam:11000010968d772) saved and unloaded
+User (steam:110000109ffaecb) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:11000010968d772) loaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command setjob, with parameters: 11 taxi 3
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (iMeelk) ran admin command giveweapon, with parameters: 12 54 400
+User (steam:1100001187ca5a0) loaded
+User (iMeelk) ran admin command giveweapon, with parameters: 12 4 30
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command setjob, with parameters: 15 tqxi 2
+User (Navex) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command setjob, with parameters: 15 taxi 2
+User (KIRIOSE) ran admin command setjob, with parameters: 15 taxi 3
+User (KIRIOSE) ran admin command setjob, with parameters: 15 taxi 4
+User (KIRIOSE) ran admin command setjob, with parameters: 15 taxi 3
+User (Navex) ran admin command setjob, with parameters: 11 taxi 4
+User (iMeelk) ran admin command setjob, with parameters: 12 taxi
+User (steam:1100001187ca5a0) saved and unloaded
+User (iMeelk) ran admin command setjob, with parameters: 12 taxi 4
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (iMeelk) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (steam:1100001187ca5a0) loaded
+User (iMeelk) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (iMeelk) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (steam:110000134b32e63) loaded
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command giveweapon, with parameters: 12 attomiseur 200
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (steam:1100001187ca5a0) saved and unloaded
+User (Navex) ran admin command setjob, with parameters: 7 police 4
+User (Navex) ran admin command setjob, with parameters: 13 police 4
+User (Navex) ran admin command setjob, with parameters: 11 police 4
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:110000134b32e63) saved and unloaded
+User (steam:110000134b32e63) loaded
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: taxi2
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: taxi2
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command spec, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command mapper, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command spec, with parameters: 
+User (steam:110000134b32e63) saved and unloaded
+User (steam:110000113e785be) loaded
+User (Junior Osment) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command car, with parameters: buzzard2
+User (Junior Osment) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command setjob, with parameters: 20 vigneron 2
+User (Junior Osment) ran admin command setjob, with parameters: 20 vigneron 3
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000113e785be) loaded
+User (steam:1100001031c351f) loaded
+User (Junior Osment) ran admin command menu, with parameters: 
+User (Junior Osment) ran admin command setjob, with parameters: 1 mecano 3
+User (Junior Osment) ran admin command setjob, with parameters: 1 mechanic 3
+User (Nawax) ran admin command setjob, with parameters: 2 vigneron 4
+User (Nawax) ran admin command setjob, with parameters: 2 vigneron 3
+User (Nawax) ran admin command setjob, with parameters: 2 vigneron 3
+User (steam:110000113e785be) saved and unloaded
+User (steam:110000113e785be) loaded
+User (steam:110000113e785be) saved and unloaded
+User (steam:110000113e785be) loaded
+User (Junior Osment) ran admin command menu, with parameters: 
+User (steam:110000113e785be) saved and unloaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 2
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 3
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (steam:11000010968d772) loaded
+User (iMeelk) ran admin command setjob, with parameters: 2 police 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (steam:11000010968d772) saved and unloaded
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (steam:11000010968d772) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (iMeelk) ran admin command menu, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command loadwl, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (steam:11000010968d772) loaded
+User (Nawax) ran admin command loadwl, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (steam:110000106d6f903) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command giveitem, with parameters: 1 menthe 2
+User (Nawax) ran admin command giveitem, with parameters: 1 glacon 2
+User (Nawax) ran admin command giveitem, with parameters: 1 waterg 2
+User (Nawax) ran admin command giveitem, with parameters: 1 waterg 2
+User (Nawax) ran admin command giveitem, with parameters: 1 glacon 2
+User (Nawax) ran admin command giveitem, with parameters: 1 menthe 2
+User (Nawax) ran admin command setjob, with parameters: 1 unicorn 4
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (iMeelk) ran admin command revive, with parameters: 
+User (Nawax) ran admin command revive, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:11000010968d772) saved and unloaded
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) loaded
+User (steam:11000010968d772) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:110000106d6f903) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:110000106d6f903) loaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 3 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 3 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 3 bucheron 0
+User (steam:110000106d6f903) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000010968d772) loaded
+User (steam:110000106d6f903) loaded
+User (steam:110000109ffaecb) loaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (Navex) ran admin command setjob, with parameters: 3 tabac 3
+User (Navex) ran admin command setjob, with parameters: 3 tabac 4
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command dv, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 1
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 2
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 3
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 4
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001187ca5a0) loaded
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (Navex) ran admin command setjob, with parameters: 3 tabac 4
+User (Navex) ran admin command setjob, with parameters: 3 tabac 4
+User (Nawax) ran admin command pos, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Navex) ran admin command setjob, with parameters: 3 tabac 4
+User (KIRIOSE) ran admin command setjob, with parameters: 5 palace 2
+User (KIRIOSE) ran admin command setjob, with parameters: 5 palace 3
+User (KIRIOSE) ran admin command setjob, with parameters: 5 palace 4
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 4 bucheron 0
+User (iMeelk) ran admin command menu, with parameters: 
+User (Navex) ran admin command setjob, with parameters: 3 vigneron 3
+User (KIRIOSE) ran admin command setjob, with parameters: 5 journalist 2
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command revive, with parameters: 2
+User (Nawax) ran admin command menu, with parameters: 
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command dv, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (KIRIOSE) ran admin command giveitem, with parameters: 5 phone 5
+User (Navex) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Navex) ran admin command mapper, with parameters: 
+User (steam:1100001187ca5a0) saved and unloaded
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 4 journalist 0
+User (steam:1100001187ca5a0) loaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:11000010968d772) saved and unloaded
+User (Nawax) ran admin command setjob, with parameters: 4 journalist 0
+User (steam:1100001187ca5a0) loaded
+User (Nawax) ran admin command setjob, with parameters: 4 vigneron 0
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:1100001187ca5a0) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:110000106d6f903) loaded
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command mapper, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:110000106d6f903) saved and unloaded
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (Nawax) ran admin command setjob, with parameters: 1 bucheron 0
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001187ca5a0) loaded

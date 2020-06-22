@@ -1,0 +1,103 @@
+-- Begin of log for 07-25-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setjob, with parameters: 1 daymson 6
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 police 4
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command mapper, with parameters: 
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 2 weapon_katana
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command car, with parameters: sultan
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command pos, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command car, with parameters: Patriot
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: Patriot
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: Patriot2
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (Oscar Jimènez) ran admin command car, with parameters: schafter2
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: schafter
+User (Oscar Jimènez) ran admin command car, with parameters: schafter3
+User (Oscar Jimènez) ran admin command car, with parameters: schafter2
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: schafter3
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 2 daymson 6
+User (steam:1100001031c351f) saved and unloaded

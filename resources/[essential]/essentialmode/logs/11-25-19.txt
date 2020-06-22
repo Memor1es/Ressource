@@ -1,0 +1,14 @@
+-- Begin of log for 11-25-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==

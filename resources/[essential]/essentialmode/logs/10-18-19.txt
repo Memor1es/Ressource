@@ -1,0 +1,21 @@
+== EssentialMode started, version 6.2.2 ==
+User (steam:11000010de9849e) loaded
+User (James Cook) ran admin command giveitem, with parameters: 1 phone 1
+User (steam:11000010de9849e) saved and unloaded
+User (steam:11000010d37c58a) loaded
+User (steam:11000010d37c58a) saved and unloaded
+User (steam:11000010eb6f781) loaded
+User (steam:11000010f22120f) loaded
+User (steam:11000010eb6f781) saved and unloaded
+User (steam:11000011bb0fed8) loaded
+User (steam:1100001348939c8) loaded
+User (steam:11000011bb0fed8) saved and unloaded
+User (steam:11000010dc0ff37) loaded
+User (steam:1100001348939c8) loaded
+User (steam:1100001348939c8) saved and unloaded
+User (steam:1100001129e6926) loaded
+User (steam:11000010f22120f) saved and unloaded
+User (steam:11000010dc0ff37) saved and unloaded
+User (steam:1100001129e6926) saved and unloaded
+User (steam:11000010794c60f) loaded
+User (steam:11000010794c60f) saved and unloaded

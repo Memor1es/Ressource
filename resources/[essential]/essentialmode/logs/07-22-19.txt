@@ -1,0 +1,49 @@
+-- Begin of log for 07-22-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setjob, with parameters: 1 unemployed 0
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 1 water 20
+User (Oscar Jimènez) ran admin command giveitem, with parameters: 1 bread 12
+User (steam:1100001187ca5a0) loaded
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001187ca5a0) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 2 weapon_woodenbat
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 2 weapon_woodenbat
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command giveweapon, with parameters: 1 weapon_katana 1
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==

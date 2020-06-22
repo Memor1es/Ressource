@@ -1,0 +1,411 @@
+-- Begin of log for 07-26-19 --
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (Nawax) ran admin command setjob, with parameters: 1 daymson 6
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 3 unemployed 0
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:110000107b72515) loaded
+User (steam:11000011cfab7f2) loaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:1100001187ca5a0) loaded
+User (Nawax) ran admin command loadwl, with parameters: 
+User (Nawax) ran admin command loadwl, with parameters: 
+User (steam:110000134b32e63) loaded
+User (steam:110000112a8ab79) loaded
+User (steam:110000109ffaecb) loaded
+User (steam:11000011cfab7f2) loaded
+User (steam:11000011b25bde2) loaded
+User (Nawax) ran admin command loadwl, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (steam:110000107b72515) saved and unloaded
+User (Nawax) ran admin command loadwl, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 5
+User (steam:1100001141061de) loaded
+User (Fares) ran admin command revive, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:110000134b32e63) saved and unloaded
+User (steam:110000107b72515) loaded
+User (steam:11000013699d1b3) loaded
+User (Fares) ran admin command revive, with parameters: 
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (Inconnu) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (steam:110000112a8ab79) saved and unloaded
+User (steam:110000109ffaecb) saved and unloaded
+User (steam:11000011cfab7f2) saved and unloaded
+User (steam:1100001187ca5a0) saved and unloaded
+User (steam:11000013699d1b3) saved and unloaded
+User (steam:11000011b25bde2) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:11000011cfab7f2) loaded
+User (steam:110000112a8ab79) loaded
+User (steam:110000109ffaecb) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000011b25bde2) loaded
+User (steam:110000134b32e63) loaded
+User (Fares) ran admin command menu, with parameters: 
+User (steam:11000013699d1b3) loaded
+User (steam:1100001187ca5a0) loaded
+User (steam:110000107b72515) loaded
+User (steam:1100001141061de) loaded
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Lola Litano) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (iProMx) ran admin command menu, with parameters: 
+User (Fares) ran admin command menu, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command setjob, with parameters: 8 gouv 3
+User (Sony Lucciani) tried to execute command without having permission: revive
+User (iProMx) ran admin command menu, with parameters: 
+User (iProMx) ran admin command revive, with parameters: 7
+User (jerome payet (ABDOUL)) ran admin command giveitem, with parameters: 8 eau 10
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveitem, with parameters: 8 coca 10
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:11000013699d1b3) saved and unloaded
+User (Nawax) ran admin command pos, with parameters: 
+User (Fares) ran admin command car, with parameters: manchez
+User (Inconnu) ran admin command menu, with parameters: 
+User (Inconnu) ran admin command setjob, with parameters: 13 police 4
+User (steam:11000013699d1b3) loaded
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: taxi2
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:110000107b72515) saved and unloaded
+User (Navex) ran admin command menu, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (steam:110000107b72515) loaded
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Lola Litano) ran admin command menu, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Nawax) ran admin command pos, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Nawax) ran admin command pos, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Navex) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command car, with parameters: delucto
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: panto
+User (KIRIOSE) ran admin command car, with parameters: deluxo
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (Lola Litano) ran admin command menu, with parameters: 
+User (steam:110000108334361) loaded
+User (Lola Litano) ran admin command revive, with parameters: 14
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Fares) ran admin command setjob, with parameters: 3 police 5
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: akula
+User (Fares) ran admin command setjob, with parameters: 3 police 4
+User (Navex) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (Navex) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (Fares) ran admin command setjob, with parameters: 3 ambulance 4
+User (Fares) ran admin command setjob, with parameters: 3 ambulance 3
+User (Fares) ran admin command setjob, with parameters: 3 ambulance 4
+User (Fares) ran admin command setjob, with parameters: 3 ambulance 3
+User (Sony Lucciani) ran admin command car, with parameters: sanchez
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_battleaxe 1
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 14
+User (Lola Litano) ran admin command revive, with parameters: 18
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_fireextinguishex
+User (Lola Litano) ran admin command revive, with parameters: 16
+User (Lola Litano) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_fireextinguisher
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_snowball
+User (raoule) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 snowball
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_doubleaction
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (Fares) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_raypistol
+User (Fares) ran admin command revive, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Fares) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (iProMx) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_molotov
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon _molotov
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (steam:11000011cfab7f2) saved and unloaded
+User (raoule) ran admin command revive, with parameters: 
+User (Inconnu) ran admin command menu, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (raoule) ran admin command menu, with parameters: 
+User (raoule) ran admin command revive, with parameters: 14
+User (raoule) ran admin command revive, with parameters: 14
+User (raoule) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (steam:11000013699d1b3) saved and unloaded
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (Navex) ran admin command revive, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command giveweapon, with parameters: 8 weapon_flaregun
+User (jerome payet (ABDOUL)) ran admin command revive, with parameters: 8
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: tank
+User (Lola Litano) ran admin command revive, with parameters: 
+User (steam:11000013699d1b3) loaded
+User (Lola Litano) ran admin command car, with parameters: casco
+User (Lounes Larbi | Da-King) ran admin command revive, with parameters: 
+User (iProMx) ran admin command menu, with parameters: 
+User (Navex) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: chernobog
+User (raoule) ran admin command revive, with parameters: 
+User (iProMx) ran admin command menu, with parameters: 
+User (iProMx) ran admin command revive, with parameters: 17
+User (steam:110000109ffaecb) saved and unloaded
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (iProMx) ran admin command revive, with parameters: 17
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: thruster
+User (iProMx) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command car, with parameters: stromberg
+User (KIRIOSE) ran admin command dv, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: wedge
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: s80rr
+User (Lola Litano) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: apc
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: tm-02
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: khanjali
+User (raoule) ran admin command revive, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: dinghy
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: avenger
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (iProMx) ran admin command dv, with parameters: 
+User (raoule) ran admin command menu, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: tula
+User (raoule) ran admin command menu, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (raoule) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command pos, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001187ca5a0) loaded
+User (steam:11000010968d772) loaded
+User (steam:11000013699d1b3) loaded
+User (steam:11000011b25bde2) loaded
+User (Nawax) ran admin command loadwl, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Nawax) ran admin command loadwl, with parameters: 
+User (Sony Lucciani) ran admin command car, with parameters: nero
+User (Nawax) ran admin command menu, with parameters: 
+User (iMeelk) tried to execute command without having permission: skin
+User (iMeelk) ran admin command skin, with parameters: 
+User (steam:11000010feb29a8) loaded
+User (iMeelk) ran admin command skin, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Dxdinho) tried to execute command without having permission: menu
+User (iMeelk) ran admin command skin, with parameters: 
+User (Nawax) ran admin command setjob, with parameters: 2 unemployed 0
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (Dxdinho) tried to execute command without having permission: revive
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 8
+User (Dxdinho) ran admin command menu, with parameters: 
+User (iMeelk) ran admin command skin, with parameters: 
+User (iMeelk) ran admin command skin, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (iMeelk) ran admin command skin, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:110000134b32e63) loaded
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command car, with parameters: tempesta
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: strikeforce
+User (Nawax) ran admin command dv, with parameters: 
+User (Lola Litano) ran admin command menu, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Dxdinho) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (Dxdinho) ran admin command menu, with parameters: 
+User (Dxdinho) ran admin command revive, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_rayminigun 999
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_rayminigun 999
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: nero
+User (Dxdinho) ran admin command menu, with parameters: 
+User (Dxdinho) ran admin command menu, with parameters: 
+User (Lola Litano) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_snowball 999
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_fireextinguisher 999
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_bottle 1
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_microsmg 500
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:11000011b25bde2) saved and unloaded
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (KIRIOSE) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_compactrifle 900
+User (Sony Lucciani) ran admin command revive, with parameters: 
+User (iMeelk) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command menu, with parameters: 
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (Dxdinho) ran admin command revive, with parameters: 5
+User (Dxdinho) ran admin command revive, with parameters: 5
+User (KIRIOSE) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (steam:1100001187ca5a0) saved and unloaded
+User (Nawax) ran admin command revive, with parameters: 
+User (Dxdinho) ran admin command car, with parameters: gtr
+User (Dxdinho) ran admin command car, with parameters: m4
+User (Dxdinho) ran admin command car, with parameters: x80proto
+User (jerome payet (ABDOUL)) ran admin command menu, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (Dxdinho) ran admin command giveweapon, with parameters: 8 weapon_firework 50
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: bulldozer
+User (jerome payet (ABDOUL)) ran admin command dv, with parameters: 
+User (jerome payet (ABDOUL)) ran admin command car, with parameters: scarab

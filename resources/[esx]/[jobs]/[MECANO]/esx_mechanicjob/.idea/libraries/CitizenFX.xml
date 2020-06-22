@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="CitizenFX" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://D:/Documents/JetbrainIDE-CitizenFX-SDK/build" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/Documents/JetbrainIDE-CitizenFX-SDK/build" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

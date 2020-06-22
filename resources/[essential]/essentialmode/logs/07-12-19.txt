@@ -1,0 +1,95 @@
+-- Begin of log for 07-12-19 --
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command announce, with parameters: t
+User (Nawax) ran admin command announce, with parameters: TTT
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: vehicle
+User (Nawax) ran admin command car, with parameters: vehicle
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command giveitem, with parameters: 3 water 50
+User (Nawax) ran admin command giveitem, with parameters: 3 bread 50
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command revive, with parameters: 1
+User (Nawax) ran admin command revive, with parameters: 2
+User (Nawax) ran admin command dv, with parameters: 
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+User (Nawax) ran admin command car, with parameters: sultan
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (Nawax) ran admin command setfaction, with parameters: 1 vagos 2
+User (Nawax) ran admin command menu, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 police 5
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command menu, with parameters: 
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command dv, with parameters: 
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command setjob, with parameters: unemployed 0
+User (Nawax) ran admin command setjob, with parameters: 1 unemployed 0
+User (Nawax) ran admin command setjob, with parameters: 1 police 4
+User (Nawax) ran admin command setjob, with parameters: 1 unemployed 0
+User (Nawax) ran admin command giveitem, with parameters: 1 blowpipe 5
+User (Nawax) ran admin command revive, with parameters: 
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (Nawax) ran admin command car, with parameters: sultan
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Nawax) ran admin command revive, with parameters: 

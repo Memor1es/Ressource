@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Metadata>
+    <Creator>es_mapper</Creator>
+    <Name>es_mapper</Name>
+    <Description>es_mapper</Description>
+    <TeleportPoint>
+      <X>0.0</X>
+      <Y>0.0</Y>
+      <Z>0.0</Z>
+      <Heading>0.0</Heading>
+    </TeleportPoint>
+  </Metadata>
+  <Objects>
+    <MapObject>
+      <Type>Prop</Type>
+      <Hash>-1864064469</Hash>
+      <Name>hw1_02_redcpet_lod</Name>
+      <Dynamic>false</Dynamic>
+      <Door>false</Door>
+      <Position>
+        <X>-2214.8610839844</X>
+        <Y>231.23316955566</Y>
+        <Z>172.02162902832</Z>
+      </Position>
+      <Rotation>
+        <X>0.0</X>
+        <Y>-1.2</Y>
+        <Z>-63.0</Z>
+      </Rotation>
+      <Quaternion>
+        <X>-0.0054714921707537</X>
+        <Y>-0.0089286637299563</Y>
+        <Z>-0.52246991578813</Z>
+        <W>0.85259341355289</W>
+      </Quaternion>
+    </MapObject>
+  </Objects>
+</Map>

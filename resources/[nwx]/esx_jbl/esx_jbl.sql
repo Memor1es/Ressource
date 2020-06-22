@@ -1,0 +1,1 @@
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES ('jbl', 'Enceinte JBL', '1', '0', '1');

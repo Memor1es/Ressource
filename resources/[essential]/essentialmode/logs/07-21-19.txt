@@ -1,0 +1,22 @@
+-- Begin of log for 07-21-19 --
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 unemployed 0
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 resid 0
+User (Oscar Jimènez) ran admin command car, with parameters: sultan
+User (Oscar Jimènez) ran admin command dv, with parameters: 
+User (Oscar Jimènez) ran admin command setjob, with parameters: 1 police 4
+User (Oscar Jimènez) ran admin command setfaction, with parameters: 1 vagos 2
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (Oscar Jimènez) ran admin command menu, with parameters: 
+User (steam:1100001031c351f) saved and unloaded
+User (steam:1100001031c351f) loaded
+User (steam:1100001031c351f) saved and unloaded
+== EssentialMode started, version 6.2.2 ==
+User (steam:1100001031c351f) loaded
+User (Oscar Jimènez) ran admin command revive, with parameters: 
+User (Oscar Jimènez) ran admin command car, with parameters: sultan
+User (steam:1100001031c351f) saved and unloaded
